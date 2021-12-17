@@ -21,6 +21,7 @@ object Versions {
     const val APP_COMPAT = "1.4.0"
     const val MATERIAL = "1.4.0"
     const val CONSTRAINT_LAYOUT = "2.1.2"
+    const val COORDINATOR_LAYOUT = "1.1.0"
     const val ANDROID_JUNIT = "1.1.2"
     const val ESPRESSO_CORE = "3.4.0"
     const val ASM = "9.1"

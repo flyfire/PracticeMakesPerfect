@@ -42,6 +42,7 @@ dependencies {
     implementation("${Libs.APPCOMPAT}:${Versions.APP_COMPAT}")
     implementation("${Libs.MATERIAL}:${Versions.MATERIAL}")
     implementation("${Libs.CONSTRAINT_LAYOUT}:${Versions.CONSTRAINT_LAYOUT}")
+    implementation("${Libs.COORDINATOR_LAYOUT}:${Versions.COORDINATOR_LAYOUT}")
 
     testImplementation("${Libs.JUNIT}:${Versions.JUNIT}")
     androidTestImplementation("${Libs.EXT_JUNIT}:${Versions.EXT_JUNIT}")

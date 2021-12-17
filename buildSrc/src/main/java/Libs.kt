@@ -36,4 +36,5 @@ object Libs {
     const val ROOM_RUNTIME = "androidx.room:room-runtime"
     const val SLIDING_PANE_LAYOUT = "androidx.slidingpanelayout:slidingpanelayout"
     const val VIEWPAGER2 = "androidx.viewpager2:viewpager2"
+    const val COORDINATOR_LAYOUT = "androidx.coordinatorlayout:coordinatorlayout"
 }

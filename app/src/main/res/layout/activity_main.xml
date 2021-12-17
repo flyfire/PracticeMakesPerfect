@@ -20,7 +20,7 @@
             android:layout_marginEnd="25dp"
             android:background="@drawable/round_white_25dp_radius"
             android:gravity="center"
-            android:text="test1"
+            android:text="嵌套滑动"
             android:textColor="#191a1d"
             android:textSize="20dp"
             app:layout_constraintBottom_toTopOf="@id/tv2"
