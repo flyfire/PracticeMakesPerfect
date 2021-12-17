@@ -38,7 +38,7 @@
             android:layout_marginEnd="25dp"
             android:background="@drawable/round_white_25dp_radius"
             android:gravity="center"
-            android:text="test2"
+            android:text="Scroll"
             android:textColor="#191a1d"
             android:textSize="20dp"
             app:layout_constraintBottom_toTopOf="@id/tv3"

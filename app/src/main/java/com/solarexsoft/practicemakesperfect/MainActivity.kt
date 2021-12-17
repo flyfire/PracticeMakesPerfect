@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.solarexsoft.practicemakesperfect.databinding.ActivityMainBinding
 import com.solarexsoft.practicemakesperfect.nestedscrolling.NestedScrollingActivity
+import com.solarexsoft.practicemakesperfect.scroll.ScrollActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -19,6 +20,9 @@ class MainActivity : AppCompatActivity() {
     private fun initView() {
         binding.tv1.setOnClickListener {
             NestedScrollingActivity.start(this)
+        }
+        binding.tv2.setOnClickListener {
+            ScrollActivity.start(this)
         }
     }
 }
